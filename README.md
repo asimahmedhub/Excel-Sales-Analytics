@@ -14,9 +14,9 @@
   Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:**
-  Determine effective customer discounts.
-  Facilitate consumer negotiations.
-  Identify opportunities for business expansion in promising markets.
+  - Determine effective customer discounts.
+  - Facilitate consumer negotiations.
+  - Identify opportunities for business expansion in promising markets.
 
 
 ## Finance Report :
@@ -31,12 +31,12 @@
   To evaluate financial performance, support decision-making, and enhance stakeholder communication.
 
 - **Importance of analyzing Finance data:**
-  Aid in benchmarking against industry standards and past performance.
-  provide Foundation for budgeting and forecasting.
+  - Aid in benchmarking against industry standards and past performance.
+  - provide Foundation for budgeting and forecasting.
 
 - **Role of reports:**
-  Align financial planning with strategic objectives.
-  Instill confidence in the organization's financial outlook.
+  - Align financial planning with strategic objectives.
+  - Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
