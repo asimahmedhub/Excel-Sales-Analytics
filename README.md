@@ -1,3 +1,7 @@
+# Excel Sales Analytics Dashboard
+
+Business-focused Excel analytics project covering customer performance, market vs target comparison, and profit & loss reporting.
+
 ## Sales Report :
 
 
