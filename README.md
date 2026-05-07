@@ -1,8 +1,8 @@
-## 📌 Project Highlights
-✔ End-to-end Excel analytics solution  
-✔ Automated reporting using Power Query  
-✔ Built P&L and Sales dashboards  
-✔ Real business use-case (AtliQ)
+![Excel](https://img.shields.io/badge/Excel-Analytics-green?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-blue?style=for-the-badge)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Data%20Model-orange?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-Calculations-purple?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 # 📊 Automated Sales & Finance Analytics Dashboard (Excel)
 
