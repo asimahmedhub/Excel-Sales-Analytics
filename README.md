@@ -1,81 +1,97 @@
+## 📌 Project Highlights
+✔ End-to-end Excel analytics solution  
+✔ Automated reporting using Power Query  
+✔ Built P&L and Sales dashboards  
+✔ Real business use-case (AtliQ)
+
 # 📊 Automated Sales & Finance Analytics Dashboard (Excel)
 
 ## 🔍 Project Overview
+
 This project demonstrates how Excel can be transformed into a powerful business analytics solution by automating reporting and delivering actionable insights across sales and finance functions.
 
-The dashboard integrates customer performance, market analysis, and profit & loss reporting into a unified, decision-ready view.
+The solution integrates customer performance, market analysis, and profit & loss reporting into a unified, decision-ready dashboard.
 
 ---
 
 ## 🎯 Business Problem
-AtliQ needed a structured reporting solution to:
-- Track customer performance  
-- Compare market performance against sales targets  
-- Analyze profitability across markets and time  
 
-Manual reporting was inefficient and lacked real-time insights.
+AtliQ required a structured reporting system to:
+
+* Monitor customer performance
+* Compare market performance against sales targets
+* Analyze profitability across markets and time
+
+Manual Excel reporting was fragmented, time-consuming, and lacked scalability.
 
 ---
 
 ## 💡 Solution
-Developed an automated Excel-based dashboard using Power Query, Power Pivot, and DAX to transform raw data into interactive reports and KPI-driven insights.
+
+Built an end-to-end Excel analytics solution using Power Query, Power Pivot, and DAX to automate data transformation, modeling, and reporting.
 
 ---
 
 ## 📈 Key Features
 
 ### 📊 Sales Analytics
-- Customer performance reporting  
-- Market vs target comparison  
-- Identification of high-growth markets  
-- KPI tracking for sales performance  
+
+* Customer performance reporting
+* Market vs target comparison
+* KPI tracking and trend analysis
+* Identification of high-growth markets
 
 ### 💰 Finance Analytics
-- Profit & Loss (P&L) reports by Fiscal Year and Month  
-- Market-level profitability analysis  
-- Financial benchmarking and trend evaluation  
+
+* Profit & Loss (P&L) by Fiscal Year and Month
+* Market-level profitability insights
+* Financial benchmarking and trend evaluation
 
 ---
 
 ## 🛠️ Tools & Techniques
-- Microsoft Excel  
-- Power Query (ETL & Data Transformation)  
-- Power Pivot (Data Modeling)  
-- DAX (Calculated Columns & Metrics)  
-- PivotTables & PivotCharts  
+
+* Microsoft Excel
+* Power Query (ETL & Data Transformation)
+* Power Pivot (Data Modeling)
+* DAX (Calculated Columns & Metrics)
+* PivotTables & PivotCharts
+
+---
+
+## 📄 Reports & Outputs
+
+### 📊 Sales Reports
+
+* 📄 [Customer Performance Report](reports/customer-performance-report.pdf)
+* 📄 [Market vs Target Analysis](reports/market-vs-target-report.pdf)
+
+### 💰 Finance Reports
+
+* 📄 [P&L Statement by Fiscal Year](reports/pnl-by-fiscal-year.pdf)
+* 📄 [P&L Statement by Markets](reports/pnl-by-markets.pdf)
+* 📄 [P&L Statement by Months](reports/pnl-by-months.pdf)
 
 ---
 
 ## 🧠 Business Impact
-- Improved reporting efficiency by automating data workflows  
-- Enabled faster decision-making through structured dashboards  
-- Provided visibility into customer, market, and financial performance  
-- Supported strategic planning and performance tracking  
 
----
-
-## 🖼️ Dashboard Preview
-<!-- Add your image here -->
-![Dashboard](assets/dashboard.png)
-
----
-
-## 📂 Project Structure
-📁 excel-sales-analytics-dashboard
-┣ 📄 Automated_Sales_Analytics_Dashboard.xlsx
-┣ 📁 assets
-┃ ┗ 📄 dashboard.png
-┗ 📄 README.md
+* Reduced manual reporting effort through automation
+* Enabled faster decision-making with structured dashboards
+* Improved visibility across sales and financial performance
+* Supported strategic planning with KPI-driven insights
 
 ---
 
 ## 🚀 Key Takeaways
-- Excel can serve as a complete analytics solution when combined with Power Query and Power Pivot  
-- Data modeling and automation significantly improve reporting workflows  
-- Business insights come from structuring and interpreting data—not just visualizing it  
+
+* Excel can function as a full analytics tool with proper modeling
+* ETL + Data Modeling significantly improve reporting workflows
+* Business insights come from structured analysis, not just visuals
 
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/asimahmedio  
-- 💻 GitHub: https://github.com/asimahmedhub  
+
+* 💼 LinkedIn: https://www.linkedin.com/in/asimahmedio
+* 💻 GitHub: https://github.com/asimahmedhub
