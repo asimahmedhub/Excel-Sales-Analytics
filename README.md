@@ -1,59 +1,81 @@
-# Excel Sales Analytics Dashboard
+# 📊 Automated Sales & Finance Analytics Dashboard (Excel)
 
-Business-focused Excel analytics project covering customer performance, market vs target comparison, and profit & loss reporting.
+## 🔍 Project Overview
+This project demonstrates how Excel can be transformed into a powerful business analytics solution by automating reporting and delivering actionable insights across sales and finance functions.
 
+The dashboard integrates customer performance, market analysis, and profit & loss reporting into a unified, decision-ready view.
 
-## Sales Report :
+---
 
+## 🎯 Business Problem
+AtliQ needed a structured reporting solution to:
+- Track customer performance  
+- Compare market performance against sales targets  
+- Analyze profitability across markets and time  
 
-- **Project objective:** 
+Manual reporting was inefficient and lacked real-time insights.
 
-    **1.** Create a _[[customer performance report](https://github.com/akalafallah/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_]
+---
 
-    **2.** Conduct a comprehensive comparison between _[[market performance and sales targets](https://github.com/akalafallah/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
-]
-- **Purpose of sales analytics:**
-  To enable businesses to effectively monitor and evaluate sales activities and performance.
+## 💡 Solution
+Developed an automated Excel-based dashboard using Power Query, Power Pivot, and DAX to transform raw data into interactive reports and KPI-driven insights.
 
-- **Importance of analyzing sales data:**
-  Identify sales patterns and track key performance indicators (KPIs).
+---
 
-- **Role of reports:**
-  - Determine effective customer discounts.
-  - Facilitate consumer negotiations.
-  - Identify opportunities for business expansion in promising markets.
+## 📈 Key Features
 
+### 📊 Sales Analytics
+- Customer performance reporting  
+- Market vs target comparison  
+- Identification of high-growth markets  
+- KPI tracking for sales performance  
 
-## Finance Report :
+### 💰 Finance Analytics
+- Profit & Loss (P&L) reports by Fiscal Year and Month  
+- Market-level profitability analysis  
+- Financial benchmarking and trend evaluation  
 
-- **Project objective:** 
+---
 
-    **1.** Create Profit and Loss (P&L) reports by _[[Fiscal Year](https://github.com/akalafallah/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_] & _[[Months](https://github.com/akalafallah/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_] 
+## 🛠️ Tools & Techniques
+- Microsoft Excel  
+- Power Query (ETL & Data Transformation)  
+- Power Pivot (Data Modeling)  
+- DAX (Calculated Columns & Metrics)  
+- PivotTables & PivotCharts  
 
-   **2.** Create Profit and Loss (P&L) reports by _[[Markets](https://github.com/akalafallah/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)]_
+---
 
-- **Purpose of sales analytics:**
-  To evaluate financial performance, support decision-making, and enhance stakeholder communication.
+## 🧠 Business Impact
+- Improved reporting efficiency by automating data workflows  
+- Enabled faster decision-making through structured dashboards  
+- Provided visibility into customer, market, and financial performance  
+- Supported strategic planning and performance tracking  
 
-- **Importance of analyzing Finance data:**
-  - Aid in benchmarking against industry standards and past performance.
-  - provide Foundation for budgeting and forecasting.
+---
 
-- **Role of reports:**
-  - Align financial planning with strategic objectives.
-  - Instill confidence in the organization's financial outlook.
+## 🖼️ Dashboard Preview
+<!-- Add your image here -->
+![Dashboard](assets/dashboard.png)
 
+---
 
-## Technical & Soft Skills:
-- [x]	Mastery of ETL (Extract, Transform, Load).
-- [x]	Proficiency in generating date tables using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Incorporation of supplementary data into existing data models.
-- [x]	Utilizing DAX to create calculated columns.
+## 📂 Project Structure
+📁 excel-sales-analytics-dashboard
+┣ 📄 Automated_Sales_Analytics_Dashboard.xlsx
+┣ 📁 assets
+┃ ┗ 📄 dashboard.png
+┗ 📄 README.md
 
-## Soft Skills:
-- [x]	Enhanced understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy and clarity.
-- [x]	Optimization of report generation through fine-tuning.
-- [x]	systematic approach to developing a structured report-building plan.
+---
+
+## 🚀 Key Takeaways
+- Excel can serve as a complete analytics solution when combined with Power Query and Power Pivot  
+- Data modeling and automation significantly improve reporting workflows  
+- Business insights come from structuring and interpreting data—not just visualizing it  
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/asimahmedio  
+- 💻 GitHub: https://github.com/asimahmedhub  
