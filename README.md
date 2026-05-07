@@ -9,18 +9,12 @@
 
 </p>
 
-![Excel](https://img.shields.io/badge/Excel-Analytics-green?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-blue?style=for-the-badge)
-![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Data%20Model-orange?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-Calculations-purple?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 <h1 align="center">📊 Excel Sales Analytics Dashboard</h1>
 <p align="center">
 Business-focused analytics solution for Sales & Finance reporting using Excel, Power Query, and Power Pivot.
 </p>
 
-# 📊 Automated Sales & Finance Analytics Dashboard (Excel)
 
 ## 🔍 Project Overview
 
