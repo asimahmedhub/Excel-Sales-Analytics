@@ -1,3 +1,14 @@
+<p align="center">
+
+<img src="https://img.shields.io/badge/Tool-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-ETL-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Pivot-Data%20Model-FFB900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-Calculations-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Domain-Sales%20%26%20Finance-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge"/>
+
+</p>
+
 ![Excel](https://img.shields.io/badge/Excel-Analytics-green?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-blue?style=for-the-badge)
 ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Data%20Model-orange?style=for-the-badge)
