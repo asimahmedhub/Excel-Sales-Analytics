@@ -12,7 +12,9 @@
 
 <h1 align="center">📊 Excel Sales Analytics Dashboard</h1>
 <p align="center">
-Business-focused analytics solution for Sales & Finance reporting using Excel, Power Query, and Power Pivot.
+End-to-end Excel analytics solution for Sales & Finance reporting using Power Query, Power Pivot, and DAX.
+
+  
 </p>
 
 
@@ -21,11 +23,19 @@ Business-focused analytics solution for Sales & Finance reporting using Excel, P
 
 ## 🔍 Project Overview
 
-This project demonstrates how Excel can be transformed into a powerful business analytics solution by automating reporting and delivering actionable insights across sales and finance functions.
+This project showcases how Excel can be leveraged as a scalable analytics platform by automating reporting workflows and delivering actionable business insights.
 
-The solution integrates customer performance, market analysis, and profit & loss reporting into a unified, decision-ready dashboard.
+It integrates customer performance, market analysis, and financial reporting into a unified, decision-ready dashboard.
+
 
 ---
+
+
+💡 **Impact:** Reduced manual reporting effort and enabled faster decision-making through centralized analytics.
+
+
+---
+
 
 ## 🎯 Business Problem
 
