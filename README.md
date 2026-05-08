@@ -10,7 +10,8 @@
 </p>
 
 
-<h1 align="center">📊 📊 Excel Sales Analytics Dashboard | Business Intelligence Solution</h1>
+<h1 align="center">📊 Excel Sales Analytics Dashboard | Business Intelligence Solution</h1>
+
 <p align="center">
 End-to-end Excel analytics solution for Sales & Finance reporting using Power Query, Power Pivot, and DAX.
 
@@ -33,7 +34,7 @@ It integrates customer performance, market analysis, and financial reporting int
 
 💡 **Impact:** 
 
-Reduced manual reporting effort and enabled faster decision-making through centralized analytics.
+Reduced manual reporting effort, improved reporting accuracy, and enabled faster, data-driven decision-making through centralized analytics.
 
 
 ---
