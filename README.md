@@ -40,6 +40,16 @@ Reduced manual reporting effort, improved reporting accuracy, and enabled faster
 ---
 
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="assets/customer-performance-preview.png" width="900"/>
+</p>
+
+
+---
+
+
 ## 🎯 Business Problem
 
 AtliQ required a structured reporting system to:
