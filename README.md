@@ -43,7 +43,7 @@ Reduced manual reporting effort, improved reporting accuracy, and enabled faster
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="assets/customer-performance-preview.png" width="900"/>
+  <img src="./assets/customer-performance-preview.png" width="900"/>
 </p>
 
 
